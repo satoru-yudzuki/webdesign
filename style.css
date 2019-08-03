@@ -1,5 +1,9 @@
 
-html{font-family: sans-serif;}
+html{
+  font-family: sans-serif;
+  min-height: 100%
+}
+
 /* todo later
   body{}
   nav{}
