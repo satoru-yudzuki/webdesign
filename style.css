@@ -4,12 +4,27 @@ html{
   min-height: 100%
 }
 
+header {
+    background: linear-gradient(to bottom, rgba(30,70,100,1) 0%, rgba(8,32,64,1) 100%);
+    padding: 1rem;
+}
+
+main {
+    background: whitesmoke;
+    color: #444;
+    padding: 1rem;
+}
+
+
+
+footer {
+    background: linear-gradient(to top, rgba(30,70,100,1) 0%, rgba(8,32,64,1) 100%);
+    padding: 1rem;
+}
+
 /* todo later
   body{}
   nav{}
-  main{}
   section{}
-  header{}
-  footer{}
   article{}
 */
